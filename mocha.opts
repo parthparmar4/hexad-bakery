@@ -1,0 +1,5 @@
+test/*.spec.js
+--bail
+--reporter spec
+--watch
+--timeout 12000
